@@ -1,11 +1,25 @@
-# Sonic IDE
-🎉Sonic IDE Desktop. Sonic IDE桌面版
+<p align="center">
+  <img width="80px" src="https://raw.githubusercontent.com/SonicCloudOrg/sonic-server/main/logo.png">
+</p>
+<p align="center">🎉Sonic IDE Desktop. Sonic IDE桌面版</p>
 
-![screen](./screenshot.jpg)
+<p align="center">
+  <a href="#">  
+    <img src="https://img.shields.io/github/v/release/SonicCloudOrg/sonic-ide?include_prereleases">
+  </a>
+  <a href="#">  
+    <img src="https://img.shields.io/github/downloads/SonicCloudOrg/sonic-ide/total">
+  </a>
+</p>
 
 ## Document / 官方文档
 
 see [here](https://sonic-cloud.cn/ide/re-ide.html)
+
+## Screenshot / 部分截图
+
+![screen](./screenshot.jpg)
+![screen2](./screenshot_remote.jpg)
 
 ## About source code / 关于源码
 
