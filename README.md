@@ -14,7 +14,7 @@
 
 ## Document / 官方文档
 
-see [here](https://sonic-cloud.cn/ide/re-ide.html)
+See [Here](https://sonic-cloud.cn/ide/re-ide.html)
 
 ## Screenshot / 部分截图
 
